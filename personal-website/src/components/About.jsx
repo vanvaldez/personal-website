@@ -44,6 +44,25 @@ const About = () => {
           </div>
           <div className="w-full shadow-xl bg-gray-100 flex flex-col p-4 my-4 rounded-lg hover:scale-105 duration-300">
             <h2 className="text-2xl font-bold text-center py-8">Experience</h2>
+            <div className="text-center font-medium">
+              <p className="py-2 border-b mx-8 mt-8">
+                Mathematics and Statistics Peer Tutor (Langara College, Jan 2023
+                - Present)
+              </p>
+              <p className="py-2 border-b mx-8">
+                Mental Health Ambassador{" "}
+                <div className="py-2">
+                  (Langara College, Jan 2023 - Present)
+                </div>{" "}
+              </p>
+              <p className="py-2 border-b mx-8">
+                {" "}
+                Langara Global Volunteer{" "}
+                <div className="py-2">
+                  (Langara College, May 2023 - Present){" "}
+                </div>{" "}
+              </p>
+            </div>
           </div>
         </div>
       </div>
