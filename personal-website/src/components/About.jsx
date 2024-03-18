@@ -1,5 +1,6 @@
 import React from "react";
 import backgroundImage from "../assets/backgrounds/about_bg.jpg";
+import profileImage from "../assets/profile.jpeg";
 
 const About = () => {
   return (
@@ -28,7 +29,10 @@ const About = () => {
             </div>
           </div>
           <div className="w-full shadow-xl bg-gray-100 flex flex-col p-4 md:my-0 my-8 rounded-lg hover:scale-105 duration-300">
-            <h2 className="text-2xl font-bold text-center py-8">About</h2>
+            <h2 className="text-2xl font-bold text-center py-8">Hi, I'm Van!</h2>
+            <div className='flex justify-center items-center'>
+              <img src={profileImage} alt="Profile" className="rounded-full w-32 h-32" />
+            </div>
             <div className="text-center font-medium">
               <p className="py-2 border-b mx-8 mt-8">
                 - curious (of just about everything!){" "}
