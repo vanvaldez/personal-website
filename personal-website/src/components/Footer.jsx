@@ -24,11 +24,35 @@ const Footer = () => {
           </a>
         </p>
         <div className="flex justify-between md:w-[75%] my-6">
-          <FaLinkedin size={30} />
-          <FaGithubSquare size={30} />
-          <FaBehanceSquare size={30} />
-          <FaInstagram size={30} />
+          <a
+            href="https://www.linkedin.com/in/valdezvan/"
+            className="hover:underline"
+          >
+            <FaLinkedin size={30} />
+          </a>
+          <a href="https://github.com/vanvaldez" className="hover:underline">
+            <FaGithubSquare size={30} />
+          </a>
+          <a
+            href="https://www.behance.net/van-valdez"
+            className="hover:underline"
+          >
+            <FaBehanceSquare size={30} />
+          </a>
+          <a
+            href="https://www.instagram.com/_vanvaldez"
+            className="hover:underline"
+          >
+            <FaInstagram size={30} />
+          </a>
         </div>
+      </div>
+      <div className="lg:col-span-3 flex justify-between"></div>
+      <div>
+        <h6 className="font-medium text-gray-400">
+          {" "}
+          ©2024. All Rights Reserved.{" "}
+        </h6>
       </div>
     </div>
   );
