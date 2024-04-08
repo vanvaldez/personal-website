@@ -18,7 +18,7 @@ const Footer = () => {
           Background Images by{" "}
           <a
             href="https://www.freepik.com/author/upklyak"
-            className="text-gray-500 underline"
+            className="text-white underline"
           >
             upklyak
           </a>
