@@ -1,11 +1,15 @@
 import React from "react";
-import backgroundImage from "../assets/backgrounds/portfolio_bg.jpg";
+import backgroundImage from "../assets/backgrounds/portfolio_bg.webp";
 import html from "../assets/html.png";
 import css from "../assets/css.png";
 import javascript from "../assets/javascript.png";
 import reactImage from "../assets/react.png";
 import nextjs from "../assets/nextjs.png";
 import tailwind from "../assets/tailwind.png";
+import python from "../assets/python.png";
+import java from "../assets/java.svg";
+import cpp from "../assets/cpp.png";
+
 
 const Portfolio = () => {
   const techs = [
@@ -45,6 +49,24 @@ const Portfolio = () => {
       title: "Next JS",
       style: "shadow-white",
     },
+    {
+      id: 7,
+      src: python,
+      title: "Python",
+      style: "shadow-yellow-500",
+    },
+    {
+      id: 8,
+      src: java,
+      title: "Java",
+      style: "shadow-green-500",
+    },
+    {
+      id: 9,
+      src: cpp,
+      title: "C++",
+      style: "shadow-purple-500",
+    }
   ];
 
   return (

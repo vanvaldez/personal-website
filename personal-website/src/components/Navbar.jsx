@@ -61,9 +61,11 @@ const Navbar = () => {
               : "ease-in-out duration-500 fixed left-[-100%]"
           }
         >
-          <h1 className="w-full text-3xl font-bold text-[#a046ca] m-4">
-            Sections
-          </h1>
+          <li className="p-4">
+            <h1 className="w-full text-3xl font-bold text-[#a046ca] m-4">
+              Sections
+            </h1>
+          </li>
           {links.map(({ id, link }) => (
             <li
               key={id}

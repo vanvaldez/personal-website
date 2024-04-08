@@ -18,29 +18,33 @@ const Footer = () => {
           Background Images by{" "}
           <a
             href="https://www.freepik.com/author/upklyak"
-            className="text-gray-500 underline"
+            className="text-white underline"
           >
             upklyak
           </a>
         </p>
         <div className="flex justify-between md:w-[75%] my-6">
           <a
+            title="LinkedIn"
             href="https://www.linkedin.com/in/valdezvan/"
             className="hover:underline"
           >
             <FaLinkedin size={30} />
           </a>
-          <a href="https://github.com/vanvaldez" className="hover:underline">
+          <a href="https://github.com/vanvaldez" title="Github"
+          className="hover:underline">
             <FaGithubSquare size={30} />
           </a>
           <a
             href="https://www.behance.net/van-valdez"
+            title="Behance"
             className="hover:underline"
           >
             <FaBehanceSquare size={30} />
           </a>
           <a
             href="https://www.instagram.com/_vanvaldez"
+            title="Instagram"
             className="hover:underline"
           >
             <FaInstagram size={30} />
