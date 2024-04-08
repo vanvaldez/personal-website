@@ -1,24 +1,27 @@
 {
   "files": {
-    "main.css": "/personal-website/static/css/main.729bc931.css",
-    "main.js": "/personal-website/static/js/main.2a642ebf.js",
-    "static/media/about_bg.jpg": "/personal-website/static/media/about_bg.38603b1d7574dc691dfb.jpg",
-    "static/media/home_bg.jpg": "/personal-website/static/media/home_bg.b3bc84b72de1c4fdc464.jpg",
-    "static/media/contact_bg.jpg": "/personal-website/static/media/contact_bg.b7a7fb3641438176bead.jpg",
-    "static/media/portfolio_bg.jpg": "/personal-website/static/media/portfolio_bg.2b259a08351bda89da72.jpg",
+    "main.css": "/personal-website/static/css/main.d868da8e.css",
+    "main.js": "/personal-website/static/js/main.e868bbdd.js",
+    "static/media/home_bg.webp": "/personal-website/static/media/home_bg.392cb7300793f860351a.webp",
+    "static/media/about_bg.webp": "/personal-website/static/media/about_bg.d5005c56e94e0a04f8ef.webp",
+    "static/media/contact_bg.webp": "/personal-website/static/media/contact_bg.660f0cea405dc880fa94.webp",
+    "static/media/portfolio_bg.webp": "/personal-website/static/media/portfolio_bg.b206c949893c7d3f0d3c.webp",
     "static/media/profile.jpeg": "/personal-website/static/media/profile.7ee3e614455cadc75025.jpeg",
+    "static/media/python.png": "/personal-website/static/media/python.ebddd128d5f6b9659464.png",
+    "static/media/cpp.png": "/personal-website/static/media/cpp.3f8430b31b0960aae7e0.png",
     "static/media/react.png": "/personal-website/static/media/react.0cf951a69d8e58f83f9d.png",
     "static/media/nextjs.png": "/personal-website/static/media/nextjs.48ddc8121a0fcb543d64.png",
     "static/media/html.png": "/personal-website/static/media/html.2ba4fabc69a89a8f71e6.png",
     "static/media/tailwind.png": "/personal-website/static/media/tailwind.e47ac876b8d4d0bba47a.png",
     "static/media/css.png": "/personal-website/static/media/css.69a82c2d9e45c933a9cb.png",
     "static/media/javascript.png": "/personal-website/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "static/media/java.svg": "/personal-website/static/media/java.65e4380863bb67e6a6248b238c7774be.svg",
     "index.html": "/personal-website/index.html",
-    "main.729bc931.css.map": "/personal-website/static/css/main.729bc931.css.map",
-    "main.2a642ebf.js.map": "/personal-website/static/js/main.2a642ebf.js.map"
+    "main.d868da8e.css.map": "/personal-website/static/css/main.d868da8e.css.map",
+    "main.e868bbdd.js.map": "/personal-website/static/js/main.e868bbdd.js.map"
   },
   "entrypoints": [
-    "static/css/main.729bc931.css",
-    "static/js/main.2a642ebf.js"
+    "static/css/main.d868da8e.css",
+    "static/js/main.e868bbdd.js"
   ]
 }
