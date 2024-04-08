@@ -1,5 +1,5 @@
 import React from "react";
-import backgroundImage from "../assets/backgrounds/about_bg.jpg";
+import backgroundImage from "../assets/backgrounds/about_bg.webp";
 import profileImage from "../assets/profile.jpeg";
 
 const About = () => {

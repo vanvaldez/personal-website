@@ -1,5 +1,5 @@
 import React from "react";
-import backgroundImage from "../assets/backgrounds/portfolio_bg.jpg";
+import backgroundImage from "../assets/backgrounds/portfolio_bg.webp";
 import html from "../assets/html.png";
 import css from "../assets/css.png";
 import javascript from "../assets/javascript.png";

@@ -1,5 +1,5 @@
 import React from "react";
-import backgroundImage from "../assets/backgrounds/contact_bg.jpg";
+import backgroundImage from "../assets/backgrounds/contact_bg.webp";
 
 const Contact = () => {
   return (
